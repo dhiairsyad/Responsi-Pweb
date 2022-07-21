@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Halaman Login </title>
+	<link rel="stylesheet" href="login.css">
+	<script>
+function Login() 
+{
+var username=document.login.username.value;
+var password=document.login.password.value;
+if(username=="admin" && password=="123")
+{
+
+}
+else 
+{
+alert("Username dan Password anda Salah");
+}
+}
+</script>
+</head>
+<body>
+	<div class="container">
+		<h1>Login</h1>
+		<form>
+			<label>Username</label><br>
+			<input type="text" name="username"><br>
+			<label>Password</label><br>
+			<input type="Password" name="password"><br>
+			<button><a href="invoice.php">Login</a></button>
+		</form>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,186 @@
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+Harga/Hari      : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+Harga/Hari      : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+Harga/Hari      : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+Harga/Hari      : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : iqbal rasyid
+Nomor           : 23123123
+Tipe Mobil      : 
+Jumlah Hari     : 2
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : iqbal rasyid
+Nomor           : 23123123
+Tipe Mobil      : Ayla
+Jumlah Hari     : 2
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
+DATA REGISTRASI RENTAL MOBIL
+===============================
+Nama            : 
+Nomor           : 
+Tipe Mobil      : 
+Jumlah Hari     : 
+===============================
